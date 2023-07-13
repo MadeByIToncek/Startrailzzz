@@ -1,0 +1,2 @@
+vanilla - 347ms
+premult - 318ms
