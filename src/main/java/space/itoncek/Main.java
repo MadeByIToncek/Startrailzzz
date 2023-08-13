@@ -22,7 +22,7 @@ public class Main {
     public static void main(String[] args) throws IOException, InterruptedException, DimensionsException {
         System.out.println("Start");
 //        long total = System.currentTimeMillis();
-        File[] list = new File("D:\\#astro\\2023\\08\\13 pers").listFiles();
+        File[] list = new File("X:\\TimelapseJPEG").listFiles();
         assert list != null;
         BufferedImage fin;
         List<Thread> threads = new ArrayList<>();
